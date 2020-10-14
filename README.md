@@ -1,7 +1,7 @@
 # esx_identity
 - Edited by MFA
 - +Background
-- +Newfont
+- +New font
 - +New UI
 
 ## Requirements
