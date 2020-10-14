@@ -1,8 +1,8 @@
 # esx_identity
-# Edited by MFA
-# +Background
-# +Newfont
-# +New UI
+- Edited by MFA
+- +Background
+- +Newfont
+- +New UI
 
 ## Requirements
 * Dependencies For Full Functionality
